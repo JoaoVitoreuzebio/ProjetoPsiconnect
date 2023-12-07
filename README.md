@@ -4,7 +4,7 @@
 
 O Sistema desenvolvido tem como foco resolver a falta de informação e a dificuldade ao acesso a atendimentos psicológicos. O sistema consiste em divulgar consultas gratuitas fornecidas pelas universidades (alunos residentes de psicologia), bem como promover maior interação entre paciente e aluno, usando o canal digital para  promover consultas onlines e acompanhamento via chat.
 
-Para maiores detalhes sobre os dados e etapas de desenvolvimento do Psiconnect acesse a [documentação do projeto]([documentacao/Doc-Especificação-A3-2023-2.docx.pdf](https://docs.google.com/document/d/1Pi38Fif05O7VPQQfD11p_X-kaw3DUJkU/edit?usp=sharing&ouid=107358172428642686922&rtpof=true&sd=true)).
+Para maiores detalhes sobre os dados e etapas de desenvolvimento do Psiconnect acesse a [documentação do projeto](https://docs.google.com/document/d/1Pi38Fif05O7VPQQfD11p_X-kaw3DUJkU/edit?usp=sharing&ouid=107358172428642686922&rtpof=true&sd=true).
 
 ### 📌 Funcionalidades
 
