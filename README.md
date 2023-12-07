@@ -21,14 +21,6 @@ Para maiores detalhes sobre os dados e etapas de desenvolvimento do Psiconnect a
 - Java;
 - SQLite.
 
-### 🚀 Rodando o projeto
-
-Para obter acesso ao projeto é necessário realizar clonar o repositório e executar o comando:
-
-```
-
-```
-
 ### 🤝 Colaboradores
 
 |[<img src="https://avatars.githubusercontent.com/u/117492130?v=4" alt="cassia" width="50"/>](https://github.com/CassiaAlthman)|[<img src="https://avatars.githubusercontent.com/u/92767874?v=4" alt="joao" width="50"/>]()|[<img src="https://media.licdn.com/dms/image/D4D03AQFEMpxX0-hmMQ/profile-displayphoto-shrink_800_800/0/1696795844721?e=1707350400&v=beta&t=JNsczBl3S0aZBkex-08Tfg533LkQbFy9gWAhsqIbFMY" alt="henrique" width="50"/>]()|[<img src="https://media.licdn.com/dms/image/C4D03AQFj7L6IejW97A/profile-displayphoto-shrink_200_200/0/1627507353329?e=1707350400&v=beta&t=sii9XKteMlfLUdsym4J_gb61D6eI5TS_q_t0r8_eNoQ" alt="cecilia" width="50"/>]()|[<img src="https://media.licdn.com/dms/image/C4E03AQE0K-nvmjqhoQ/profile-displayphoto-shrink_200_200/0/1636055492734?e=1707350400&v=beta&t=jYxq6zU0bH3O2-mNPAiGHD8A-ue1qpAHGQuUkFS3Hos" alt="aline" width="50"/>]()|
